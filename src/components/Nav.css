@@ -1,0 +1,116 @@
+
+.button2 a, .button3 a{
+  text-decoration: none;
+}
+
+.logo img{height: 50px;
+    width: 200px;
+  
+  }
+
+.dropbtn {
+  color: rgb(107, 96, 96);
+ background-color: white;
+  padding: 0px;
+  font-size: 16px;
+ border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+ min-width: 160px;
+ z-index: +1;
+}
+
+ .dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropbtn{
+  font-family:Franklin Gothic Medium;
+}
+.dropbtn:hover{
+  color: rgb(228, 69, 96);
+}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.button1{
+  font-family: Brush Script MT;
+          background-color:white;
+      border: none;
+      color:black;
+      padding: 0px;
+      text-align: center;
+      margin-right: 15px;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 30px;
+      margin: 2px 2px;
+      cursor: pointer;
+}
+      .button:hover{
+          color:  rgb(228, 69, 96);
+        }
+        .button{text-decoration: none;
+          font-family:Franklin Gothic Medium;
+          color: rgb(107, 96, 96);
+          background-color: white;
+           padding: 15px;
+           font-size: 16px;
+          border: none;
+      }
+        
+      .button2{padding: 15px;
+          font-size: 18px;
+      font-family: Lucida Sans;
+      border: none;
+      background-color:white ;
+   
+      float: right;
+      }
+
+      .button2{
+          float: right;
+          border-radius: 5px;
+          background-color: rgb(144, 174, 201);
+          font-size: 17px;
+          font-family:Arial;
+          /* margin-left: 15px; */
+          margin-right: 16px 12px;
+      }
+
+      .container{
+          margin-left: 20px;
+      }
+
+
+      .button3,
+      .button2{margin-top: 3px;
+          border-radius: 6px;
+          border-width: 0px;
+          border-style: solid;
+         padding: 11px 16px;
+      }
+      .button3{
+          
+          float: right;
+          border: none;
+           background-color:white;
+          font-size: 17px;
+          font-family:Arial;
+          /* margin-left: 15px; */
+          margin-right: 12px;
+          padding-bottom: 10;
+      }
+

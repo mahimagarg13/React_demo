@@ -1,0 +1,212 @@
+.tamp{width:100%;
+  
+    display: flex;
+    
+    }
+    .footer1{
+      height: 410px;
+    }
+    
+    .b1 img{font-size: 2.5rem;
+      border: none;
+      font-family: Brush Script MT;
+      width: 104px;
+    background-color: whitesmoke;
+    margin-top: 100px;
+    margin-left: 70px;
+    }
+    .dropbtn1{
+      color: gray;
+      background-color: white;
+       padding: 6px 6px;
+       font-size: 16px;
+     border-radius: 5px;
+     border-color: hotpink;
+    }
+    
+    .btn{font-size: 1rem;
+    background-color: white;
+    border: none;
+    color: gray;
+    margin-left: 20px;
+    padding: 12px 12px;
+    font-family:Arial  ;
+    border-radius: 15px;
+    }
+    
+    .btn:hover{
+      background-color: rgb(165, 165, 165);
+      color: white;
+    }
+    
+    .main{
+      display: flex;
+      /* flex-direction: row; */
+     height: 70px;
+      width: 100%;
+    }
+    
+    .one{
+      /* justify-content: flex-start; */
+      background-color:none;
+      width: 400px;
+    
+    }
+    .two{
+      /* align-items: center; */
+      width: 1200px;
+      
+    }
+    .three{
+    font-family:'MS Serif','New York',serif;
+    
+    }
+    
+    
+    .center, .center{
+    margin-top: 30;
+    margin-left: 70px;
+    margin-right: 10px;
+    display: flex;
+    
+    
+    }
+    .c{margin-top: 20px;
+      height:400 0px;
+      width: 400px;
+      align-items: center;
+    }
+    
+    .buttonA{padding: 15px;
+      font-size: 18px;
+    font-family: Lucida Sans;
+    border: none;
+    background-color:white ;
+    }
+    
+    
+    
+    .buttonA{
+      
+      border-radius: 5px;
+      background-color: rgb(144, 174, 201);
+      font-size: 17px;
+      font-family:Arial;
+      /* margin-left: 15px; */
+     
+      
+    }
+    .container{
+      margin-left: 20px;
+    }
+    
+    
+    .buttonA,
+    .buttonB{margin-top: 50px;
+      border-radius: 6px;
+      border-width: 0px;
+      border-style: solid;
+     padding: 11px 16px;
+     margin-left: 500px;
+    margin-bottom: 50px;
+    }
+    .buttonB{
+     
+      border: none;
+       background-color:white;
+      font-size: 17px;
+      font-family:Arial;
+      /* margin-left: 15px; */
+      margin-right: 10px;
+      padding-bottom: 10;
+      
+    }
+    
+    
+    .center img{
+    border-radius: 15px;
+    box-shadow: inset 0px -15px 30px 1px black;
+    
+    }
+    
+     .h{
+    margin-left: 50px;
+    font-size: 1rem;
+    font-family: Arial Narrow;
+    margin-right: 15px;
+     }
+    
+    
+    
+    
+    .b1{height: 410px;
+      /* justify-content: flex-start; */
+      background-color:whitesmoke;
+      width: 350px;
+    color: black;
+    
+    }
+    .b2{
+      /* align-items: center; */
+      width: 220px;
+      background-color:whitesmoke;
+      text-decoration: none;
+    }
+    
+     .h2{ font-family: Clanrendon BT Bold;
+      margin-left: 45px;
+      margin-top: 100px;
+      margin-bottom: 10px;
+    }
+    .b2 a{ color: rgb(66, 66, 66);
+      margin-top: 20px;
+      margin-right: 50px;
+      text-decoration: none;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 0.8rem;
+    }
+    
+    
+    .b3{
+    font-family:'MS Serif','New York',serif;
+    width: 220px;
+    background-color: whitesmoke;
+    }
+    .b3 a{margin-right: 10px;
+      text-decoration: none;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 0.8rem;
+     color: rgb(66, 66, 66);
+    }
+    
+    
+    .b4{font-family:'MS Serif','New York',serif;
+      width: 220px;
+      background-color: whitesmoke;
+    }
+    .b4 a{margin-right: 10px;
+      text-decoration: none;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 0.8rem;
+     color: rgb(66, 66, 66);
+    
+    }
+    
+    .b5{background-color: whitesmoke;
+      width: 220px;
+      }
+    .b5 a{margin-right: 10px;
+        text-decoration: none;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+       font-size: 0.8rem;
+       color: rgb(66, 66, 66);
+      
+    }
+    
+      .b6{background-color: whitesmoke;
+        width:400px;
+        }
+        .b1 img{background-color: whitesmoke;
+          height: 70px;
+         width: 200px;
+        }
