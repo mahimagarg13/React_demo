@@ -10,7 +10,7 @@ function Middle() {
                     webbywords is the leading destination to find and showcase creative work and home to the
                     world's best design professionals.
   </h4>
-                <button href="/signup.html" class="button4"><a href="/signup.html"> Signup</a></button>
+                <button href="/signup" class="button4"><a href="/signup"> Signup</a></button>
 
 
             </div>

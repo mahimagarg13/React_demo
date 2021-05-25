@@ -33,8 +33,8 @@ function Nav() {
                         <a href="#">Link 3</a>
                     </div>
                 </div>
-                <button href="/login.html" className="button2"><a href="/login">Sign in</a></button>
-                <button href="/signup.html" className="button3"><a href="/signup" > Signup</a></button>
+                <button href="/login" className="button2"><a href="/login">Sign in</a></button>
+                <button href="/signup" className="button3"><a href="/signup" > Signup</a></button>
             </div>
   );
 }
