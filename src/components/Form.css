@@ -1,0 +1,60 @@
+.main {
+  background-color: whitesmoke;
+  display: flex;
+  margin-top: 20px;
+  height: 100vh;
+}
+.contact-details {
+  width: 400%;
+  text-align: left;
+}
+.contact-details h1 {
+  margin-top: 200px;
+  margin-left: 500px;
+}
+.contact-details h3,
+p {
+  margin-left: 500px;
+}
+
+.details {
+  margin-top: 200px;
+  width: 500%;
+  background: whitesmoke;
+  font-size: 1.2rem;
+  margin-left: 50px;
+}
+.details .inputbox label {
+  font-size: 3.8rem;
+}
+.details .inputbox input {
+  width: 100px;
+}
+
+/* .details input[type="submit"] {
+  background: transparent;
+  border: none;
+  outline: none;
+  color: white;
+  background: #03a9f4;
+  padding: 12px 124px;
+  border-radius: 5px;
+  font-size: 20px; */
+
+.details a{
+    text-decoration: none;
+    background-color: rgb(0, 0, 0) ;
+    border-radius: 25px;
+    color: hsl(0, 0%, 99%);
+    padding: 18px 30px;
+    margin-left: 50px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    }
+
+
+
+.details a:hover{background-color: rgba(103, 164, 243, 0.918);
+    color: white;
+}
+
+ 
