@@ -9,7 +9,7 @@ function Contactus(){
     <h1>Contact Us</h1>
 <br/>
 
-  <a href="#" className="button" >Get Started</a>
+  <a href="Form">Get Started</a>
   
 </div>
 </div>

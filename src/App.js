@@ -9,6 +9,7 @@ import Home from "./components/Home"
 import Signup from "./components/Signup"
 import Aboutus from "./components/Aboutus"
 import Contactus from "./components/Contactus"
+import Form from "./components/Form"
 
 
 
@@ -25,6 +26,7 @@ function App() {
    <Route exact path="/Signup" component={Signup} />
    <Route exact path="/Aboutus" component={Aboutus} />
    <Route exact path="/Contactus" component={Contactus} />
+   <Route exact path="/Form" component={Form} />
    </Switch>
    
     </BrowserRouter>
