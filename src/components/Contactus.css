@@ -1,0 +1,32 @@
+.data{
+    display: flex;
+    background-image: url("./images/gg.png");
+    position: absolute;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+background-size: 100%;
+
+}
+.head{
+   margin-top: 400px;
+   margin-bottom: 20px;
+   margin-left: 200px;
+}
+.head a{
+text-decoration: none;
+background-color: rgb(0, 0, 0) ;
+border-radius: 25px;
+color: hsl(0, 0%, 99%);
+padding: 18px 30px;
+margin-left: 50px;
+box-shadow: 10px 10px 5px #aaaaaa;
+}
+.head a:hover{background-color: rgba(103, 164, 243, 0.918);
+    color: white;
+}
+
+.head h1{
+    font-size: 3.5rem;
+    font-variant: small-caps
+}

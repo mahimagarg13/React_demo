@@ -23,8 +23,8 @@ function Nav() {
                         <a href="#">Link 3</a>
                     </div>
                 </div>
-                <a href="Aboutus" className="button">About us</a>
-                <a href="Contactus" className="button">Contact Us</a>
+                <a href="Aboutus" className="button">About Us</a>
+                <a href="Contactus" className="button" >Contact Us</a>
                 <div className="dropdown">
                     <button className="dropbtn">Hire Designer</button>
                     <div className="dropdown-content">

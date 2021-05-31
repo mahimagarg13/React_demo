@@ -8,6 +8,7 @@ import Login from "./components/Login"
 import Home from "./components/Home"
 import Signup from "./components/Signup"
 import Aboutus from "./components/Aboutus"
+import Contactus from "./components/Contactus"
 
 
 
@@ -23,6 +24,7 @@ function App() {
    <Route exact path="/login" component={Login} />
    <Route exact path="/Signup" component={Signup} />
    <Route exact path="/Aboutus" component={Aboutus} />
+   <Route exact path="/Contactus" component={Contactus} />
    </Switch>
    
     </BrowserRouter>

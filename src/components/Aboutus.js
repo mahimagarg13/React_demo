@@ -17,7 +17,7 @@ function Aboutus() {
              voluptates qui exercitationem voluptate, nihil fuga! Alias
               molestias illo consequuntur incidunt iure, aliquid numquam.</p>
 <div className="button">
-<a >Read More</a>
+<a href="#">Read More</a>
 </div>
          </div>
          

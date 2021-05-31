@@ -1,4 +1,9 @@
-
+:focus{
+  outline: none;
+}
+::-moz-focus-inner{
+  border: 0;
+}
 .button2 a, .button3 a{
   text-decoration: none;
 }
@@ -14,11 +19,13 @@
   padding: 0px;
   font-size: 16px;
  border: none;
+ text-decoration: none;
 }
 
 .dropdown {
   position: relative;
   display: inline-block;
+ 
   margin-left: 20px;
 }
 
@@ -39,9 +46,7 @@
 .dropbtn{
   font-family:Franklin Gothic Medium;
 }
-.dropbtn:hover{
-  color: rgb(228, 69, 96);
-}
+.dropbtn:hover{color: rgb(228, 69, 96);}
 
 .dropdown:hover .dropdown-content {display: block;}
 
@@ -66,7 +71,7 @@
           font-family:Franklin Gothic Medium;
           color: rgb(107, 96, 96);
           background-color: white;
-           padding: 15px;
+          padding-left: 15px;
            font-size: 16px;
           border: none;
       }
@@ -113,4 +118,3 @@
           margin-right: 12px;
           padding-bottom: 10;
       }
-

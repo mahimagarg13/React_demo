@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
+:focus{
+    outline: none;
+  }
+  ::-moz-focus-inner{
+    border: 0;
+  }
+
+
 *
 {
     margin: 0px;
@@ -57,6 +65,8 @@ font-size: 21px;
 
 .content-section .content .button {
     margin-top: 30px;
+    background-color: whitesmoke;
+  
 }
 .content-section .content .button a{
     background-color: #3d3d3d;
@@ -65,6 +75,7 @@ font-size: 21px;
     color:#fff;
     font-size: 25px;
     letter-spacing: 1.5px;
+    box-shadow: 10px 10px 5px #aaaaaa;
 }
 .content-section .content .button a:hover{
     background-color: #03a9f4;
