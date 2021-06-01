@@ -7,8 +7,8 @@ function Form(){
             
             <div className="contact-details">
             <h1> Contact Us </h1>
-            <h3>our mailing address is:</h3>
-              <p>  H. No.-44,abc road,<br />
+            <h3 className="form-address ">our mailing address is:</h3>
+              <p className="form-address">  H. No.-44,abc road,<br />
                 Madhya Pradesh, India<br />
                 Phone- 0987456321<br />
                 Email-abs@gmail.com</p>

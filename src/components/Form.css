@@ -4,6 +4,11 @@
   margin-top: 20px;
   height: 100vh;
 }
+
+.form-address {
+  margin-left: 50%;
+}
+
 .contact-details {
   width: 400%;
   text-align: left;
@@ -13,9 +18,9 @@
   margin-top: 35%;
   margin-left: 50%;
 }
-.contact-details h3,
+.contact-details h3 ,
 p {margin-top: 10px;
-  margin-left: 50%;
+  /* margin-left: 50%; */
 }
 .contact-details p{
   font-size:1.2rem;
